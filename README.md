@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aisyah Rahmadani Pohontu</h1>
+<h2 align="center">A passionate backend developer🧚‍♀️ </h2>
 
 - 📫 How to reach me **anggipohontu378@gmail.com**
 
