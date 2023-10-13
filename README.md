@@ -13,4 +13,3 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anggi78&show_icons=true&locale=en&layout=compact" alt="anggi78" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anggi78&" alt="anggi78" /></p>
