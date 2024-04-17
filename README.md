@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aisyah Rahmadani Pohontu</h1>
 <h3 align="center">A passionate backend developer🧚‍♀️</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anggi78&label=Profile%20views&color=0e75b6&style=flat" alt="anggi78" /> </p>
-
 - 📫 How to reach me **anggipohontu378@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
