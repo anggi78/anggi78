@@ -1,8 +1,7 @@
 ## 💫 About Me:
 
-<h1 align="center">Hi 👋, I'm Aisyah Rahmadani Pohontu</h1>
-<h3 align="center">A passionate backend developer🧚‍♀️</h3>
-
+- Hi 👋, I'm Aisyah Rahmadani Pohontu
+- A passionate backend developer🧚‍♀️
 - 📫 How to reach me **anggipohontu378@gmail.com**
 
 
