@@ -2,7 +2,7 @@
 
 - Hi 👋, I'm Aisyah Rahmadani Pohontu
 - A passionate backend developer🧚‍♀️
-- 📫 How to reach me **anggipohontu378@gmail.com**
+- 📫 How to reach me **aisyahrahmadanipohontu@gmail.com**
 
 
 ## 🌐 Socials:
